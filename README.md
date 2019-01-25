@@ -18,23 +18,23 @@ The following SQL queries were used on the database to extract the global data, 
 
 * Global
 
-SELECT * FROM global_data;
+``` SELECT * FROM global_data; ```
 
 * Riyadh
 
-SELECT year, avg_temp FROM city_data WHERE city = 'Riyadh';
+``` SELECT year, avg_temp FROM city_data WHERE city = 'Riyadh'; ```
 
 * Abu Dhabi
 
-SELECT year, avg_temp FROM city_data WHERE city = 'Abu Dhabi';
+``` SELECT year, avg_temp FROM city_data WHERE city = 'Abu Dhabi'; ```
 
 * Manama
 
-SELECT year, avg_temp FROM city_data WHERE city = 'Manama';
+``` SELECT year, avg_temp FROM city_data WHERE city = 'Manama'; ```
 
 * Doha
 
-SELECT year, avg_temp FROM city_data WHERE city = 'Doha';
+``` SELECT year, avg_temp FROM city_data WHERE city = 'Doha'; ```
 
 
 

@@ -9,8 +9,6 @@
 <li><a href="#visualization">Data Analysis and Visualization</a></li>
 </ul>
 
-I used Jupyter Notebook, Python, and the libraries; Pandas, PyLab and MatPlotLib.
-
 <a id='data'></a>
 ## Data
 
